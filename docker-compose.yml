@@ -1,0 +1,17 @@
+# Help: https://code-maze.com/mysql-aspnetcore-docker-compose/
+
+version: '3.0'
+
+services:
+  app:
+    image: text-snippets
+    restart: unless-stopped
+    build:
+      context: .
+    ports:
+      - "6087:80"
+    healthcheck:
+      test: curl --silent --fail http://localhost:80/health || exit 1
+      interval: 15s
+      timeout: 15s
+      retries: 3

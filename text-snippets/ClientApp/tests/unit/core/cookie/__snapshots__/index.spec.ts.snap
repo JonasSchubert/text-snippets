@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cookie/appName should not change unexpected 1`] = `"dotnetcore-vue-template"`;
+
+exports[`cookie/daysTilExpired should not change unexpected 1`] = `Object {}`;
+
+exports[`cookie/keys should not change unexpected 1`] = `Object {}`;

@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextSnippets computed headers should not change unexpected 1`] = `
+Array [
+  Object {
+    "sortable": true,
+    "text": "Tag",
+    "value": "tag",
+  },
+  Object {
+    "sortable": true,
+    "text": "Value",
+    "value": "value",
+  },
+  Object {
+    "sortable": true,
+    "text": "Description",
+    "value": "description",
+  },
+  Object {
+    "sortable": true,
+    "text": "Added on",
+    "value": "dateTimeAdded",
+  },
+  Object {
+    "sortable": true,
+    "text": "Updated on",
+    "value": "dateTimeUpdated",
+  },
+  Object {
+    "sortable": false,
+    "text": "",
+    "value": "actions",
+  },
+]
+`;

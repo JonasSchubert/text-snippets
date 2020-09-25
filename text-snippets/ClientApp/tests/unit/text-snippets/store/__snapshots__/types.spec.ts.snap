@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActionTypes should not change unexpected 1`] = `
+Object {
+  "add": "add",
+  "delete": "delete",
+  "load": "load",
+  "update": "update",
+}
+`;
+
+exports[`GetterTypes should not change unexpected 1`] = `
+Object {
+  "error": "error",
+  "isLoading": "isLoading",
+  "list": "list",
+}
+`;
+
+exports[`ModuleType should not change unexpected 1`] = `"text-snippets"`;
+
+exports[`MutationTypes should not change unexpected 1`] = `
+Object {
+  "setError": "setError",
+  "setIsLoading": "setIsLoading",
+  "setList": "setList",
+}
+`;
+
+exports[`RouteTypes should not change unexpected 1`] = `
+Object {
+  "textSnippets": "TextSnippets",
+}
+`;

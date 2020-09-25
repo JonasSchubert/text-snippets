@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`routes should not change unexpected 1`] = `
+Array [
+  Object {
+    "component": [Function],
+    "meta": Object {
+      "allowLocaleStorage": true,
+      "icon": "mdi-home",
+      "inNavigationBar": true,
+      "text": "message.home",
+    },
+    "name": "Home",
+    "path": "/",
+  },
+  Object {
+    "component": [Function],
+    "meta": Object {
+      "allowLocaleStorage": true,
+      "icon": "mdi-message-processing",
+      "inNavigationBar": true,
+      "text": "message.text-snippet",
+    },
+    "name": "TextSnippets",
+    "path": "/text-snippets",
+  },
+  Object {
+    "component": [Function],
+    "meta": Object {
+      "allowLocaleStorage": false,
+      "inNavigationBar": false,
+    },
+    "name": "404",
+    "path": "*",
+  },
+]
+`;
