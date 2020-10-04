@@ -1,7 +1,7 @@
 # Text Snippets - Frontend
 
 [![VueJs](https://img.shields.io/badge/Frontend-VueJs-green.svg)](https://vuejs.org/)
-[![Version](https://img.shields.io/badge/Version-20.09.25--0-blue.svg)](./src/)
+[![Version](https://img.shields.io/badge/Version-20.10.04--0-blue.svg)](./src/)
 
 [![Statements](https://img.shields.io/badge/Statements-79.64%25-yellow.svg)](./tests/unit/)
 [![Branch](https://img.shields.io/badge/Branch-23.08%25-yellow.svg)](./tests/unit/)

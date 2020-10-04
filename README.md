@@ -18,19 +18,9 @@
 
 ## Contributors
 
-| [<img alt="JonasSchubert" src="https://avatars0.githubusercontent.com/u/21952813?v=4&s=117" width="117"/>](https://github.com/JonasSchubert) |
+| [<img alt="JonasSchubert" src="https://avatars0.githubusercontent.com/u/21952813?v=4&s=117" width="117"/>](http://192.168.178.21:6080/JonasSchubert) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| [Jonas Schubert](https://github.com/JonasSchubert) |
-
-### Attention
-
-#### Backend
-
-This project needs one of my not (yet) published projects - I18n Service. Remove this code if you want to try out this application.
-
-#### Frontend
-
-This project needs my [vue-library](https://github.com/JonasSchubert/vue-library) to be linked using above command `npm run libs`.
+| [Jonas Schubert](http://192.168.178.21:6080/JonasSchubert) |
 
 ## License
 

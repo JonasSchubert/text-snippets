@@ -6,7 +6,7 @@
 
     <IsPackable>false</IsPackable>
 
-    <Version>20.09.25.0</Version>
+    <Version>20.10.04.0</Version>
 
     <Company>guepardoapps</Company>
 
@@ -14,9 +14,9 @@
 
     <Product>i18n-service</Product>
 
-    <AssemblyVersion>20.09.25.0</AssemblyVersion>
+    <AssemblyVersion>20.10.04.0</AssemblyVersion>
 
-    <FileVersion>20.09.25.0</FileVersion>
+    <FileVersion>20.10.04.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>

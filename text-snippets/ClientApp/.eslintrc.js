@@ -12,6 +12,8 @@ module.exports = {
     ecmaVersion: 2020,
   },
   rules: {
+    '@typescript-eslint/ban-types': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
     'comma-dangle': 'off',
     'import/extensions': 'off',
     'import/no-unresolved': 'off',
@@ -23,11 +25,10 @@ module.exports = {
     'no-param-reassign': 'off',
     'no-underscore-dangle': 'off',
     'no-useless-escape': process.env.NODE_ENV === 'production' ? 'error' : 'off',
-    quotes: 'off',
+    'quotes': 'off',
     'quote-props': 'off',
-    semi: 'off',
-    '@typescript-eslint/ban-types': 'off',
-    '@typescript-eslint/no-explicit-any': 'off'
+    'semi': 'off',
+    'vue/valid-v-slot': 'off'
   },
   overrides: [
     {

@@ -37,7 +37,7 @@ describe('App', () => {
     <app-bar-btn dark="" icon="mdi-message-processing" text="message.text-snippet" to="/text-snippets"></app-bar-btn>
   </app-bar>
   <app-content></app-content>
-  <app-footer version="20.09.25-0">
+  <app-footer version="20.10.04-0">
     <v-spacer-stub></v-spacer-stub>
   </app-footer>
   <app-snackbar></app-snackbar>
